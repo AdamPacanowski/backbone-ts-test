@@ -1,0 +1,19 @@
+{
+  "name": "backbone-ts-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules\\.bin\\parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/backbone": "1.4.4",
+    "backbone": "1.4.0",
+    "parcel": "1.12.4"
+  },
+  "devDependencies": {
+    "typescript": "4.0.2"
+  }
+}
